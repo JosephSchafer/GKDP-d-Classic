@@ -1,0 +1,16 @@
+------------------------------------------------------------------------
+r164 | stolenlegacy | 2014-10-27 11:45:07 +0000 (Mon, 27 Oct 2014) | 1 line
+Changed paths:
+   A /tags/1.4.2 (from /trunk:163)
+
+Tagging 1.4.2 release.
+------------------------------------------------------------------------
+r163 | stolenlegacy | 2014-10-27 11:44:40 +0000 (Mon, 27 Oct 2014) | 4 lines
+Changed paths:
+   M /trunk/GDKPd.lua
+
+- Going to bump beta-18 up to release since no errors reported yet.
+- Not updating TOC because no verification yet that functionality is still there for 6.0. Verification and/or bug reports are appreciated.
+- This should also ensure embedded libs are up-to-date so we don't taint by having old versions.
+- THIS IS NOT A CONFIRMED WOD WORKING RELEASE - that's why it's still got a 5.4 ToC. Report bugs!
+------------------------------------------------------------------------
